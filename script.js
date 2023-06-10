@@ -38,7 +38,7 @@ const getUser = async (username) => {
 }
 
 // init call
-getUser("rjritik2002");
+getUser("fabpot");
 
 const getRepos = async (username) => {
     try {
